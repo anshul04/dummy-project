@@ -1,0 +1,10 @@
+.image {
+    background-image: url('/assets/images/cover-page.jpg');
+    background-position:50% 50%;
+    height:35em; 
+    background-size:cover;
+}
+
+.navBar {
+    position: relative;
+}
